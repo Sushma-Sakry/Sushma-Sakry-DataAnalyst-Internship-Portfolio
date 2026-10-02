@@ -40,7 +40,7 @@ Capstone Integration & Portfolio Finalization
 
 ## Projects & Deliverables
 
-### • Task 1 — Data Cleaning & Preparation
+### • Task 1 - Data Cleaning & Preparation
 
 **Focus:** Data quality assessment, cleaning, validation, and feature engineering.
 
@@ -58,7 +58,7 @@ Key activities included:
 
 ---
 
-### • Task 2 — Exploratory Data Analysis
+### • Task 2 - Exploratory Data Analysis
 
 **Focus:** Understanding sales patterns, customer characteristics, product performance, and trends.
 
@@ -76,7 +76,7 @@ Key analysis included:
 
 ---
 
-### • Task 3 — Deep-Dive Analysis & Power BI Dashboard
+### • Task 3 - Deep-Dive Analysis & Power BI Dashboard
 
 **Focus:** Product performance, sales drivers, city-level analysis, and interactive dashboard development.
 
@@ -94,7 +94,7 @@ Key work included:
 
 ---
 
-### • Task 4 — Data Storytelling & Statistical Validation
+### • Task 4 - Data Storytelling & Statistical Validation
 
 **Focus:** Communicating business insights through a data-driven story and validating a business hypothesis statistically.
 
@@ -125,8 +125,8 @@ The final presentation consolidates the data storytelling and statistical valida
 
 **Files:**
 
-- [View Final Presentation — PDF](./ApexPlanet_Task4.pdf)
-- [View Final Presentation — PowerPoint](./ApexPlanet_Task4.pptx)
+- [View Final Presentation - PDF](./ApexPlanet_Task4.pdf)
+- [View Final Presentation - PowerPoint](./ApexPlanet_Task4.pptx)
 
 ---
 
@@ -206,7 +206,7 @@ Sushma-Sakry-DataAnalyst-Internship-Portfolio/
 ├── ApexPlanet_Task4.pptx
 │
 └── Internship Project Links
-    ├── Task 1 — Data Cleaning & Preparation
-    ├── Task 2 — Exploratory Data Analysis
-    ├── Task 3 — Power BI Dashboard
-    └── Task 4 — Data Storytelling & Statistical Validation
+    ├── Task 1 - Data Cleaning & Preparation
+    ├── Task 2 - Exploratory Data Analysis
+    ├── Task 3 - Power BI Dashboard
+    └── Task 4 - Data Storytelling & Statistical Validation
