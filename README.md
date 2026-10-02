@@ -1,4 +1,4 @@
-# Sushma Sakry — Data Analyst Internship Portfolio
+# Sushma Sakry - Data Analyst Internship Portfolio
 
 Welcome to my **ApexPlanet Data Analytics Internship Portfolio**.
 
